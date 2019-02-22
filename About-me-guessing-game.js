@@ -16,6 +16,9 @@ function askQuestions(){
     returnByFunction = findMy('Weight',180,response);
     alert(returnByFunction);
 
+    response = parseFloat(prompt('What is my BMI?'));
+    alert('You don\'t need to answer that. I was just kidding !!!!');
+
     response = prompt('Do you want to know more about me? Answer Y or N');
     if (response.toUpperCase() === 'Y') {
       alert('Okay great. This is our national animal. Guess my country based on the sound');
