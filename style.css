@@ -1,0 +1,34 @@
+
+#LordKrishna {
+    margin-left: 5px;
+    margin-right: 5px;
+	width: 400px;
+	height: 400px;
+	vertical-align:middle;
+  }
+
+#Title {  
+  width: 1000px;
+  height: 20px;
+  margin: 10px;
+  font-weight: 700;
+}
+
+#Header {  
+	width: 1000px;
+	height: 20px;
+	margin: 10px;
+	margin-bottom: 30px;
+  }
+
+#button {  
+	width: 815px;
+	height: 30px;
+	margin: 10px;
+  }
+
+body {
+	margin-right: 200px;
+	margin-left: 200px;
+    background: #999;
+}
